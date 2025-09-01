@@ -1,7 +1,7 @@
 import requests
 
 # 1. 加载环境变量（API密钥存储在.env文件中）
-API_KEY = "sk-debd7ef804ad406cb44d954f52fba802"
+API_KEY = "xxxxxxxxxxxxx"
 
 
 # 2. 定义DeepSeek API调用函数
